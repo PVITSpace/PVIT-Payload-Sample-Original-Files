@@ -1,0 +1,34 @@
+com/example/arduinoserial/DeviceListActivity.java
+ com.example.arduinoserial.DeviceListActivity
+ com.example.arduinoserial.DeviceListActivity$1
+ com.example.arduinoserial.DeviceListActivity$2
+ com.example.arduinoserial.DeviceListActivity$3
+ com.example.arduinoserial.DeviceListActivity$4
+com/example/arduinoserial/ArduinoService.java
+ com.example.arduinoserial.ArduinoService
+ com.example.arduinoserial.ArduinoService$1
+ com.example.arduinoserial.ArduinoService$1$1
+ com.example.arduinoserial.ArduinoService$10
+ com.example.arduinoserial.ArduinoService$11
+ com.example.arduinoserial.ArduinoService$2
+ com.example.arduinoserial.ArduinoService$3
+ com.example.arduinoserial.ArduinoService$4
+ com.example.arduinoserial.ArduinoService$5
+ com.example.arduinoserial.ArduinoService$6
+ com.example.arduinoserial.ArduinoService$7
+ com.example.arduinoserial.ArduinoService$8
+ com.example.arduinoserial.ArduinoService$9
+ com.example.arduinoserial.ArduinoService$Callback
+ com.example.arduinoserial.ArduinoService$CompareSizesByArea
+ com.example.arduinoserial.ArduinoService$MyBinder
+ com.example.arduinoserial.ArduinoService$PhotoRequest
+com/example/arduinoserial/SerialConsoleActivity.java
+ com.example.arduinoserial.SerialConsoleActivity
+ com.example.arduinoserial.SerialConsoleActivity$1
+ com.example.arduinoserial.SerialConsoleActivity$2
+ com.example.arduinoserial.SerialConsoleActivity$3
+ com.example.arduinoserial.SerialConsoleActivity$4
+ com.example.arduinoserial.SerialConsoleActivity$5
+ com.example.arduinoserial.SerialConsoleActivity$6
+com/example/arduinoserial/BuildConfig.java
+ com.example.arduinoserial.BuildConfig
